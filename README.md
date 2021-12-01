@@ -1,8 +1,6 @@
-### Hi there 👋
+### 
 
-![Zhengtian Xie](https://github-readme-stats.vercel.app/api?username=coneypo&theme=dracula)]
-
-- 🔭 I’m currently working on LiDAR.
+GO
 
 <!--
 **coneypo/coneypo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
